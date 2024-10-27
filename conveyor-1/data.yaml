@@ -1,0 +1,12 @@
+names:
+- conveyor
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: conveyor-lg5wk
+  url: https://universe.roboflow.com/kinghuynh/conveyor-lg5wk/dataset/1
+  version: 1
+  workspace: kinghuynh
+test: ../test/images
+train: ../train/images
+val: ../valid/images
